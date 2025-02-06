@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaySyntax
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C#,Python
 - 📫 How to reach me 4renboi@gmail.com
 - @nkayynk on IG
 - 0506480968
